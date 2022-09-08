@@ -14,5 +14,6 @@
 ```
 ## 使用方式
 > 项目运行方式 
+
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/4460815)  
 B：在github上运行文件即可
