@@ -7,8 +7,6 @@
 
 ## 项目结构
 ```
--|data
--|work
 -README.MD
 -【飞桨学习赛：中文新闻文本标题分类】8月第2名方案.ipynb
 ```
@@ -16,4 +14,4 @@
 > 项目运行方式 
 
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/4460815)  
-B：在github上运行文件即可
+B：下载ipynb文件和[数据集](https://aistudio.baidu.com/aistudio/datasetdetail/103654/0)后，更改文件路径进行训练、测试即可。ERNIE模型的checkpoint[点此下载](https://aistudio.baidu.com/aistudio/datasetdetail/168122)
